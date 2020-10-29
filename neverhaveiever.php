@@ -8,6 +8,8 @@
         'experimented to see my sexual orientation.',
         'said ‘I love you’ just to get laid',
         'spied on my neighbors',
-        'Lied to a friend to avoid a greater evil',
-        'Done a handstand with one hand',
+        'lied to a friend to avoid a greater evil',
+        'done a handstand with one hand',
+        'stuck gum under a desk',
+        'done pictures in underwear',
     ];
